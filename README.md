@@ -2,6 +2,9 @@ Excel Project
 ===
 
 # Sales Dashboard
+
+![Dashboard](https://github.com/leoschmoll/Excel-Project/assets/152095978/aa477a30-3f5c-4b51-87e6-2f4ecaca9ee7)
+
 ===
 
 I am delighted to present this project aimed at bolstering expertise in critical areas such as "data cleaning", "data modeling" and beyond in Spreadsheets. 
